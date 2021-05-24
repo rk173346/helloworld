@@ -10,13 +10,13 @@
     <scm>  
       <connection>scm:git:https://github.com/rk173346/helloworld</connection>  
       <!--<developerConnection>scm:svn:https://github.com/rk173346/helloworld</developerConnection>-->
-      <tag>helloworld-1.0.5</tag>
+      <tag>HEAD</tag>
   </scm>
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
 	<artifactId>helloworld</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6-SNAPSHOT</version>
     <packaging>mule-application</packaging>
 	<name>helloworld</name>
     <properties>
